@@ -22,7 +22,9 @@ jobs:
 
       - name: Push to output branch
         run: |
-          cd dist
+          mkdir /tmp/snake
+          cp dist/* /tmp/snake/
+          cd /tmp/snake
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
