@@ -30,10 +30,10 @@
 
 ---
 
-### GitHub Stats
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-cruvinel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=1f6feb&hide=prs,contribs&rank_icon=github" alt="GitHub Stats"/>
+  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </p>
 
 ---
