@@ -15,36 +15,26 @@ Desenvolvedor full-stack baseado no Brasil, construindo produtos digitais.
 
 ---
 
-### Contribuições
+### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/profile-summary-card-output/github-dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
 </p>
 
----
-
-### Streak
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/profile-summary-card-output/github-dark/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/profile-summary-card-output/github-dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesar-cruvinel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/profile-summary-card-output/github-dark/3-productive-time.svg" width="49%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/profile-summary-card-output/github-dark/4-summary.svg" width="49%" alt="Summary"/>
 </p>
 
 ---
 
 ### Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cesar-cruvinel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cesar-cruvinel&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" alt="Activity Graph"/>
 
 ---
-
-### Quando eu codo
-
-[![Contribution Time Distribution](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=83348519&period=all_times&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=83348519&period=all_times)
-
----
-
-<p align="center">
-  <i>1.000+ contribuições no último ano</i>
-</p>
