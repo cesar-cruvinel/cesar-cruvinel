@@ -41,7 +41,7 @@ Desenvolvedor full-stack baseado no Brasil, construindo produtos digitais.
 
 ### Quando eu codo
 
-[![Contribution Time Distribution](https://next.ossinsight.io/widgets/official/compose-contribution-time-distribution/thumbnail.png?activity_type=all&user_id=83348519&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-contribution-time-distribution?activity_type=all&user_id=83348519)
+[![Contribution Time Distribution](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=83348519&period=all_times&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=83348519&period=all_times)
 
 ---
 
