@@ -38,19 +38,6 @@
 
 ---
 
-### Linguagens & Produtividade
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
-</p>
-
----
-
 ### Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cesar-cruvinel&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" alt="Activity Graph"/>
