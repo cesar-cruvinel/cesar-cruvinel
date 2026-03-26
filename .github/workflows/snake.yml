@@ -1,4 +1,4 @@
-name: Profile Summary Cards
+name: Generate Snake
 
 on:
   schedule:
@@ -9,28 +9,25 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: Platane/snk@v3
         with:
-          USERNAME: cesar-cruvinel
-          BRANCH_NAME: cards
-          UTC_OFFSET: -3
-          AUTO_PUSH: false
+          github_user_name: cesar-cruvinel
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0c2d48,#14487a,#1f6feb,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push cards to branch
+      - name: Push to output branch
         run: |
-          cd profile-summary-card-output
+          cd dist
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Generate profile summary cards"
-          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/cesar-cruvinel/cesar-cruvinel.git" HEAD:cards
+          git commit -m "Generate contribution snake"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/cesar-cruvinel/cesar-cruvinel.git" HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

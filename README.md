@@ -33,13 +33,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cesar-cruvinel&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-cruvinel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=1f6feb&hide=prs,contribs&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
----
-
-### Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cesar-cruvinel&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" alt="Activity Graph"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/output/snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
 
 ---
