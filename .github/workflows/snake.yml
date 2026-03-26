@@ -26,6 +26,8 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
+          extras_css: |
+            .row > section:first-child > .field:first-child { display: none !important; }
           filename: github-metrics.svg
           output_action: commit
           committer_branch: main
