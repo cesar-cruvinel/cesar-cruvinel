@@ -36,10 +36,6 @@
   <img src="https://streak-stats.demolab.com/?user=cesar-cruvinel&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
-</p>
-
 ---
 
 ### Linguagens & Produtividade
@@ -50,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/3-productive-time.svg" width="49%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/cesar-cruvinel/cesar-cruvinel/cards/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
 </p>
 
 ---
